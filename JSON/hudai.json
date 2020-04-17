@@ -1,18 +1,37 @@
 [
     {
-        "_id": "auth-1",
         "name": "Max",
-        "age": 29,
-        "address": {
-            "street": "Banani"
-        }
+        "age": 30,
+        "hobbies": ["Sports", "Cooking"]
     },
     {
-        "_id": "auth-2",
-        "name": "Jinx",
-        "age": 45,
-        "address": {
-            "street": "Mohakhali"
-        }
+        "name": "Manuel",
+        "age": 31,
+        "hobbies": ["Cars", "Cooking"]
+    },
+    {
+        "name": "Anna",
+        "age": 29,
+        "hobbies": ["Sports", "Yoga"]
+    },
+    {
+        "name": "Maria",
+        "age": 31
+    },
+    {
+        "name": "Chris",
+        "age": 25
+    },
+    {
+        "name": "Phil",
+        "age": 35
+    },
+    {
+        "name": "Sandeep",
+        "age": 28
+    },
+    {
+        "name": "Hans",
+        "age": 38 
     }
 ]
