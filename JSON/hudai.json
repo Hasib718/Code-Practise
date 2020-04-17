@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "auth-1",
+        "name": "Max",
+        "age": 29,
+        "address": {
+            "street": "Banani"
+        }
+    },
+    {
+        "_id": "auth-2",
+        "name": "Jinx",
+        "age": 45,
+        "address": {
+            "street": "Mohakhali"
+        }
+    }
+]

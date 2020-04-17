@@ -1,0 +1,66 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Again",
+            "request": "launch",
+            "mainClass": "Again"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Again",
+            "request": "launch",
+            "mainClass": "Java.Again",
+            "projectName": "Programming_d5a2ffde"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - COS",
+            "request": "launch",
+            "mainClass": "CodeForces.COS",
+            "projectName": "Programming_d5a2ffde"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "CodeForces.Main",
+            "projectName": "Programming_d5a2ffde"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inherit",
+            "request": "launch",
+            "mainClass": "Jaba.Inherit",
+            "projectName": "Programming_d5a2ffde"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MountainBike",
+            "request": "launch",
+            "mainClass": "Jaba.MountainBike",
+            "projectName": "Programming_d5a2ffde"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inheritence",
+            "request": "launch",
+            "mainClass": "Jaba.Inheritence",
+            "projectName": "Programming_d5a2ffde"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - loop",
+            "request": "launch",
+            "mainClass": "loop",
+            "projectName": "Programming_d5a2ffde"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "vs_java.hello",
+            "projectName": "Programming_d5a2ffde"
+        }
+    ]
+}

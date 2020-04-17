@@ -1,0 +1,1020 @@
+[
+    {
+        "reg" : "23",
+        "type" : "medical",
+        "name" : "MD. EMDADUL HOQUE",
+        "father" : "",
+        "address" :	"KALITOLA, P.S.: KOTWALI, DISTRICT: RANGPUR.",
+        "image" : "https://medical.bmdc.org.bd/upl/img/register/m_01/23.jpg"
+    },
+    {
+        
+        "reg" : "3",
+        "type" : "medical",
+        "name" : "SULTANA KHANAM",
+        "father" : "",
+        "address" :	"65, D.O. H.S. (OLD BANANI, P.O.: DHAKA CANTONMENT, P.S.: DHAKA CANONMENT, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/3.jpg"
+    
+    },
+    {
+        
+        "reg" : "6",
+        "type" : "medical",
+        "name" : "MD. TASLIM UDDIN",
+        "father" : "",
+        "address" :	"VILL.- NATIB CHAPRA, P.O.: BAFARI JHAR, P.S.: NILPHAMARI, DISTRICT: RANGPUR.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/6.jpg"
+    
+    },
+    {
+        
+        "reg" : "7",
+        "type" : "medical",
+        "name" : "MD. MOSLEM ALI",
+        "father" : "",
+        "address" :	"VILL.- CHAK PRAN, P.O.: ARJI NAOGAON, DISTRICT: RAJSHAHI.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/7.jpg"
+    
+    },
+    {
+        
+        "reg" : "8",
+        "type" : "medical",
+        "name" : "MATIUR RAHMAN SHAH",
+        "father" : "",
+        "address" :	"VILL.- GOHAL BARI, P.O.: BHOLAHAT, DISTRICT: RAJSHAHI.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/8.jpg"
+    
+    },
+    {
+        
+        "reg" : "9",
+        "type" : "medical",
+        "name" : "EBADAT ALI MOLLAH",
+        "father" : "",
+        "address" :	"AHMADBAGH PASCHIM PANIA , DISTRICT: KHULNA..",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/9.jpg"
+    
+    },
+    {
+        
+        "reg" : 11,
+        "type" : "medical",
+        "name" : "A. M. ASHRAFUZZAMAN",
+        "father" : "",
+        "address" :	"VILL. & P. O.- KHANDARPARA, DISTRICT: FARIDPUR",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/11.jpg"
+    
+    },
+    {
+        
+        "reg" : "12",
+        "type" : "medical",
+        "name" : "MOHSIN ALI",
+        "father" : "",
+        "address" :	"107, SIDDESWARI, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/12.jpg"
+    
+    },
+    {
+        
+        "reg" : "13",
+        "type" : "medical",
+        "name" : "FIROZE MAHAMOOD",
+        "father" : "",
+        "address" :	"AMIN BARI, VILL.- CHAMDANI, P.O.: MOYNA, DISTRICT: FARIDPUR.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/13.jpg"
+    
+    },
+    {
+        
+        "reg" : "14",
+        "type" : "medical",
+        "name" : "MOHAMMAD HOSSAIN",
+        "father" : "",
+        "address" :	"VILL. & P. O.- BETKA, P.O.: BETKA, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/14.jpg"
+    
+    },
+    {
+        
+        "reg" : "15",
+        "type" : "medical",
+        "name" : "MD. FAZLUR RAHMAN",
+        "father" : "",
+        "address" :	"PURATAN KASBA, DISTRICT: JESSORE.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/15.jpg"
+    
+    },
+    {
+        
+        "reg" : "16",
+        "type" : "medical",
+        "name" : "MUHAMMED RAHMAT ALI",
+        "father" : "",
+        "address" :	"RAJJAB ALI, DOMRAKANDI, P.S.: SAVAR, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/16.jpg"
+    
+    },
+    {
+        
+        "reg" : "18",
+        "type" : "medical",
+        "name" : "A. RAFIQUR RAHMAN",
+        "father" : "",
+        "address" :	"139- B, DHANMONID, ROAD NO-1, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/18.jpg"
+    
+    },
+    {
+        
+        "reg" : "19",
+        "type" : "medical",
+        "name" : "SHAFIQUL HUDA CHOWDHURY",
+        "father" : "",
+        "address" :	"VILL.- DAKSHINBAGH, P.O.: DAKSHINBAGH, DISTRICT: SYLHET.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/19.jpg"
+    
+    },
+    {
+        
+        "reg" : "20",
+        "type" : "medical",
+        "name" : "FARHAD KARIM",
+        "father" : "",
+        "address" :	"8, MUNIR HOSSAIN LANE, NARINDA, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/20.jpg"
+    
+    },
+    {
+        
+        "reg" : "21",
+        "type" : "medical",
+        "name" : "ABU JAFAR AHAMAD",
+        "father" : "",
+        "address" :	"PATHANPARA, P.O.: PATHANPARA, DISTRICT: CHAPAI NAWABGONJ.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/21.jpg"
+    
+    },
+    {
+        
+        "reg" : "22",
+        "type" : "medical",
+        "name" : "NURUN NESSA",
+        "father" : "",
+        "address" :	"PATHANPARA, P.O.: CAHPAINAWABGONJ, DISTRICT: CHAPAINAWABGANJ.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/22.jpg"
+    
+    },
+    {
+        
+        "reg" : "24",
+        "type" : "medical",
+        "name" : "MD. MATIUR RAHMAN",
+        "father" : "",
+        "address" :	"NOWABGANJ GHORPARA, P.O.: RAJSHAHI COURT, DISTRICT: RAJSHAHI.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/24.jpg"
+    
+    },
+    {
+        
+        "reg" : "25",
+        "type" : "medical",
+        "name" : "MUHAMMAD YUNUS",
+        "father" : "",
+        "address" :	"3/12, LIAKAT AVENUE, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/25.jpg"
+    
+    },
+    {
+        
+        "reg" : "26",
+        "type" : "medical",
+        "name" : "SIRAJUL ISLAM",
+        "father" : "",
+        "address" :	"1/3, BLOCK- A, LALMATIA, P.S.: DAMURHUDA, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/26.jpg"
+    
+    },
+    {
+        
+        "reg" : "27",
+        "type" : "medical",
+        "name" : "GAZI SHUMSUL HUDA",
+        "father" : "",
+        "address" :	"GANGADHAR, P.O.: MANIKGONJ, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/27.jpg"
+    
+    },
+    {
+        
+        "reg" : "28",
+        "type" : "medical",
+        "name" : "MD. SALAHUDDIN",
+        "father" : "",
+        "address" :	"HATIA MANJIL, P.O.: CHUADANGA, DISTRICT: KUSHTIA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/28.jpg"
+    
+    },
+    {
+        
+        "reg" : "29",
+        "type" : "medical",
+        "name" : "MD. NURUL ISLAM JOARDER",
+        "father" : "",
+        "address" :	"RAJJAB ALI, DOMRAKANDI, P.S.: SAVAR, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/29.jpg"
+    
+    },
+    {
+        
+        "reg" : "30",
+        "type" : "medical",
+        "name" : "A. K. M. FAZLUL HAQUE",
+        "father" : "FAYEZ UDDIN AHMED",
+        "address" :	"NAOGAON, DISTRICT: NAOGAON.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/30.jpg"
+    
+    },
+    {
+        
+        "reg" : "31",
+        "type" : "medical",
+        "name" : "HASNA HENA",
+        "father" : "",
+        "address" :	"5/6, GOPIKISHNA LANE, P.O.: WARI, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/31.jpg"
+    
+    },
+    {
+        
+        "reg" : "32",
+        "type" : "medical",
+        "name" : "S. M. SAMIRUL HOQUE SIRAJI",
+        "father" : "",
+        "address" :	"22, MADAN PAUL LANE, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/32.jpg"
+    
+    },
+    {
+        
+        "reg" : "3383",
+        "type" : "medical",
+        "name" : "MD. HABIBUR RAHMAN",
+        "father" : "",
+        "address" :	"DISTRICT: FARIDPUR.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/3383.jpg"
+    
+    },
+    {
+        
+        "reg" : "33",
+        "type" : "medical",
+        "name" : "MKHANDAKER HAMIDUL HAQUE",
+        "father" : "",
+        "address" :	"RCHALK BAZAR, P.O.: SHERJPUR TOWN, DISTRICT: MYMENSINGH.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/33.jpg"
+    
+    },
+    {
+        
+        "reg" : "34",
+        "type" : "medical",
+        "name" : "MD. NAZMUL HUQUE",
+        "father" : "",
+        "address" :	"46 NO CAPTAIN BAZAR, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/34.jpg"
+    
+    },
+    {
+        
+        "reg" : "35",
+        "type" : "medical",
+        "name" : "FATEMA KHATUN",
+        "father" : "",
+        "address" :	"153/A, RAM KRISHNA MISSION, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/35.jpg"
+    
+    },
+    {
+        
+        "reg" : "36",
+        "type" : "medical",
+        "name" : "A. S. KAMAL UDDIN AHMED",
+        "father" : "",
+        "address" :	"VILL.- MOHESKHANDI, P.O.: GOSSAIRHAT, DISTRICT: FARIDPUR.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/36.jpg"
+    
+    },
+    {
+        
+        "reg" : "37",
+        "type" : "medical",
+        "name" : "MAHFUZUR RAHMAN",
+        "father" : "",
+        "address" :	"170, DHANMONDI R/ A, ROAD 13/2, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/37.jpg"
+    
+    },
+    {
+        
+        "reg" : "38",
+        "type" : "medical",
+        "name" : "MD. MATIUR RAHMAN",
+        "father" : "",
+        "address" :	"N. B. K. C. NAG RAOD, P.O.: NARAYANGONJ, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/38.jpg"
+    
+    },
+    {
+        
+        "reg" : "39",
+        "type" : "medical",
+        "name" : "SHAMSUS SALEHIN",
+        "father" : "",
+        "address" :	"KALIM BAGH, JAIL ROAD, DISTRICT: JESSORE.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/39.jpg"
+    
+    },
+    {
+        
+        "reg" : "40",
+        "type" : "medical",
+        "name" : "MD. SIDDIQUE HOQUE",
+        "father" : "",
+        "address" :	"VILL.- SATPAI STATION QUARTER, P.O.: NETROKONA, DISTRICT: MYMENSINGH.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/40.jpg"
+    
+    },
+    {
+        
+        "reg" : "41",
+        "type" : "medical",
+        "name" : "KULSOOM ABDULLAH",
+        "father" : "",
+        "address" :	"AMINA BAD COLONY, BUILDING 5, FLAT- E, 56/57 SHIDESHWARI, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/41.jpg"
+    
+    },
+    {
+        
+        "reg" : "42",
+        "type" : "medical",
+        "name" : "A. K. M. ABDUL HASNAT CHOWDHURY",
+        "father" : "",
+        "address" :	"DARUL ISLAM, NAZIR BRIDGE, DISTRICT: BARISAL.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/42.jpg"
+    
+    },
+    {
+        
+        "reg" : "43",
+        "type" : "medical",
+        "name" : "MD. MUJIBUR RAHMAN",
+        "father" : "",
+        "address" :	"VILL.- MOHDI NAGAR, P.O.: ATGHARI, P.S.: JAMURKI, DISTRICT: TANGAIL.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/43.jpg"
+    
+    },
+    {
+        
+        "reg" : "44",
+        "type" : "medical",
+        "name" : "MD. SHAMSUL ISLAM KHAN",
+        "father" : "",
+        "address" :	"VILL.- PAKMUPIL, P.O.: BAGHIL, P.S.: TANGAIL, DISTRICT: TANGAIL.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/44.jpg"
+    
+    },
+    {
+        
+        "reg" : "45",
+        "type" : "medical",
+        "name" : "	MD. MUHSIN",
+        "father" : "",
+        "address" :	"VILL.- DARBAST, DISTRICT: SYLHET.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/45.jpg"
+    
+    },
+    {
+        
+        "reg" : "46",
+        "type" : "medical",
+        "name" : "NISHIT KUMAR GHOSH",
+        "father" : "",
+        "address" :	"CHAPAI NOWABGONJ, DISTRICT: RAJSHAHI.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/46.jpg"
+    
+    }
+    {
+        
+        "reg" : "47",
+        "type" : "medical",
+        "name" : "ABU YOUSUF- F. KARIM",
+        "father" : "",
+        "address" :	"20 AZIMPUR ROAD, P.O.: PHEELKHANA, P.S.: SAIDPUR, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/47.jpg"
+    
+    },
+    {
+        
+        "reg" : "48",
+        "type" : "medical",
+        "name" : "ABDUL HALIM BHUIYAN",
+        "father" : "",
+        "address" :	"VILL.- HAPANIA, P.O.: BALTALI BAZAR, P.S.: MATLAB, DISTRICT: COMILLA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/48.jpg"
+    
+    },
+    {
+        
+        "reg" : "49",
+        "type" : "medical",
+        "name" : "NASIHA KHATUN",
+        "father" : "",
+        "address" :	"140, DHANMONDI R/ A, ROAD 3, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/49.jpg"
+    
+    },
+    {
+        
+        "reg" : "50",
+        "type" : "medical",
+        "name" : "REZAUR RAHMAN",
+        "father" : "",
+        "address" :	"KALACHAND PARA, P.O.: PABNA, DISTRICT: PABNA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/50.jpg"
+    
+    },
+    {
+        
+        "reg" : "51",
+        "type" : "medical",
+        "name" : "NILUFAR BEGUM",
+        "father" : "",
+        "address" :	"KALACHANDPARA, P.O.: PABNA, DISTRICT: PABNA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/51.jpg"
+    
+    },
+    {
+        
+        "reg" : "52",
+        "type" : "medical",
+        "name" : "CHOWDHURY A. S. M. ALTAFUR RAHMAN",
+        "father" : "",
+        "address" :	"VILL.- BHANDARIKANDI, P.S.: SHIBCHAR, DISTRICT: FARIDPUR.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/52.jpg"
+    
+    },
+    {
+        
+        "reg" : "53",
+        "type" : "medical",
+        "name" : "MD. ABDUL JALIL",
+        "father" : "",
+        "address" :	"VILL.- KASHIMARI, P.O.: KASHIMARI, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/53.jpg"
+    
+    },
+    {
+        
+        "reg" : "54",
+        "type" : "medical",
+        "name" : "G. G. NOAZ",
+        "father" : "",
+        "address" :	"BUNGALOW, P.O.: DHAKA, P.S.: DHAKA, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/54.jpg"
+    
+    },
+    {
+        
+        "reg" : "55",
+        "type" : "medical",
+        "name" : "NURUN NAHAR BEGUM",
+        "father" : "",
+        "address" :	"23, HORMOHON SHEAL STREET, LALBAGH, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/55.jpg"
+    
+    },
+    {
+        
+        "reg" : "56",
+        "type" : "medical",
+        "name" : "NASIMA AKHTAR",
+        "father" : "",
+        "address" :	"18, CHAMELIBAGH, SANTINAGAR, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/56.jpg"
+    
+    },
+    {
+        
+        "reg" : "57",
+        "type" : "medical",
+        "name" : "MATIUR RAHMAN CHOWDURY",
+        "father" : "",
+        "address" :	"VILL.- DHALA, P.O.: SEKUNDAR NAGAR, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/57.jpg"
+    
+    },
+    {
+        
+        "reg" : "58",
+        "type" : "medical",
+        "name" : "QUAZI NAJMA MONSUR",
+        "father" : "",
+        "address" :	"7 A GREEN SQUARE, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/58.jpg"
+    
+    },
+    {
+        
+        "reg" : "59",
+        "type" : "medical",
+        "name" : "SYLVIA CLAIRE BOYER",
+        "father" : "",
+        "address" :	"4123 WOODLAND DRIVE, NEW ORLENS LA, USA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/59.jpg"
+    
+    },
+    {
+        
+        "reg" : "60",
+        "type" : "medical",
+        "name" : "MD. ABDUR RAHIM",
+        "father" : "",
+        "address" :	"VILL.- BEHARHAT, P.O.: SHIBGONG, DISTRICT: BOGRA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/60.jpg"
+    
+    },
+    {
+        
+        "reg" : "61",
+        "type" : "medical",
+        "name" : "MUHAMMED SHAMSUL HOQUE",
+        "father" : "",
+        "address" :	"VILL.- BANAR HOWLA, P.O.: KAPASIA, DISTRICT: GAZIPUR.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/61.jpg"
+    
+    },
+    {
+        
+        "reg" : "62",
+        "type" : "medical",
+        "name" :"A. F. M. BURHAN UDDIN",
+        "father" : "",
+        "address" :	"ANSAR MANJIL, NO-3 NAGAPALTAN, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/62.jpg"
+    
+    },
+    {
+        
+        "reg" : "63",
+        "type" : "medical",
+        "name" : "SNIGDHA CHAKRABORTY",
+        "father" : "",
+        "address" :	"BALUBARI, DISTRICT: DINAJPUR.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/63.jpg"
+    
+    },
+    {
+        
+        "reg" : "65",
+        "type" : "medical",
+        "name" : "GOLAM RABBANY",
+        "father" : "",
+        "address" :	"KAPASIAPARA, P.O.: GHONSHAMPUR, P.S.: NOWABGONJ, DISTRICT: RAJSHAHI.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/65.jpg"
+    
+    },
+    {
+        
+        "reg" : "66",
+        "type" : "medical",
+        "name" : "BIBHUTI BHUSHAN SARKAR",
+        "father" : "",
+        "address" :	"VILL.- PATIKEL BARI, P.O.: JUTHAMANDUA, DISTRICT: GOPALGONJ.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/66.jpg"
+    
+    },
+    {
+        
+        "reg" : "67",
+        "type" : "medical",
+        "name" : "LATIFA KHATUN",
+        "father" : "",
+        "address" :	"11/1, TOYENBEE CIRCULAR ROAD, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/67.jpg"
+    
+    },
+    {
+        
+        "reg" : "68",
+        "type" : "medical",
+        "name" : "ANJUMAN ARA BEGUM",
+        "father" : "",
+        "address" :	"256, DHANMONDI R/ A, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/68.jpg"
+    
+    },
+    {
+        
+        "reg" : "69",
+        "type" : "medical",
+        "name" : "MD. NAZRUL ISLAM",
+        "father" : "",
+        "address" :	"RADANAGAR, P.O.: PABNA, DISTRICT: PABNA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/69.jpg"
+    
+    },
+    {
+        
+        "reg" : "70",
+        "type" : "medical",
+        "name" : "GOPI NATH KARMAKER",
+        "father" : "",
+        "address" :	"VILL.- BALLA, P.O.: BALLA BAZAR, DISTRICT: TANGAIL.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/70.jpg"
+    
+    },
+    {
+        
+        "reg" : "71",
+        "type" : "medical",
+        "name" : "MD. ABDUL BASHED MIAH",
+        "father" : "",
+        "address" :	"VILL.- RAMPUR, P.O.: FARAJI KANDI, P.S.: MATLAB, DISTRICT: CHANDPUR.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/71.jpg"
+    
+    },
+    {
+        
+        "reg" : "72",
+        "type" : "medical",
+        "name" : "MD. NURUL HOQUE",
+        "father" : "",
+        "address" :	"UNITED GOVT. SHCOOL ROAD, DISTRICT: MADARIPUR.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/72.jpg"
+    
+    },
+    {
+        
+        "reg" : "73",
+        "type" : "medical",
+        "name" : "MADAN MOHAN PODDER",
+        "father" : "",
+        "address" :	"VILL.- MALAMRIDHA, DISTRICT: FARIDPUR.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/73.jpg"
+    
+    },
+    {
+        
+        "reg" : "74",
+        "type" : "medical",
+        "name" : "BIJIT KUMAR SAHA",
+        "father" : "",
+        "address" :	"VILL.- BINODPUR, DISTRICT: JESSORE.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/74.jpg"
+    
+    },
+    {
+        
+        "reg" : "75",
+        "type" : "medical",
+        "name" : "NIRANJAN KUMAR ROY",
+        "father" : "",
+        "address" :	"RASULPUR, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/75.jpg"
+    
+    },
+    {
+        
+        "reg" : "76",
+        "type" : "medical",
+        "name" : "SYED AZMAT HAMID HASHMI",
+        "father" : "",
+        "address" :	"153/ A, RAMKRISHNA MISSION ROAD, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/76.jpg"
+    
+    },
+    {
+        
+        "reg" : "77",
+        "type" : "medical",
+        "name" : "MD. MAQSUDUL HAQ",
+        "father" : "",
+        "address" :	"PABNA TOWN, DISTRICT: PABNA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/77.jpg"
+    
+    },
+    {
+        
+        "reg" : "78",
+        "type" : "medical",
+        "name" : "MD. AMINUL ISLAM",
+        "father" : "",
+        "address" :	"AZAD MONJIL, RADHA NAGAR, DISTRICT: PABNA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/78.jpg"
+    
+    },
+    {
+        
+        "reg" : "79",
+        "type" : "medical",
+        "name" : "A. K. M. SERAJUL ISLAM",
+        "father" : "",
+        "address" :	"HAKIMPUR, DISTRICT: NOAKHALI.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/79.jpg"
+    
+    },
+    {
+        
+        "reg" : "80",
+        "type" : "medical",
+        "name" : "MOSTAFIZUR RAHMAN",
+        "father" : "",
+        "address" :	"VILL.- KALIGATI, P.O.: SHIBPUR, P.S.: MOLLAHAT, DISTRICT: KHULNA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/80.jpg"
+    
+    },
+    {
+        
+        "reg" : "81",
+        "type" : "medical",
+        "name" : "AHSANUL KARIM KHAN",
+        "father" : "",
+        "address" :	"ROSE VILLA, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/81.jpg"
+    
+    },
+    {
+        
+        "reg" : "82",
+        "type" : "medical",
+        "name" : "FAKHRUL ISLAM CHOUDHURY",
+        "father" : "",
+        "address" :	"42/6, INDIRA ROAD, TEJGAON, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/82.jpg"
+    
+    },
+    {
+        
+        "reg" : "83",
+        "type" : "medical",
+        "name" : "MUHAMMED ABDUL QUAYUM",
+        "father" : "",
+        "address" :	"SATARKUL, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/83.jpg"
+    
+    },
+    {
+        
+        "reg" : "84",
+        "type" : "medical",
+        "name" : "MD. SIRAJUL HAQUE",
+        "father" : "",
+        "address" :	"NAVARON, DISTRICT: JESSORE.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/84.jpg"
+    
+    },
+    {
+        
+        "reg" : "85",
+        "type" : "medical",
+        "name" : "MD. JOHURUL ALAM",
+        "father" : "",
+        "address" :	"KAMCHANPUR, DISTRICT: CHITTAGONG.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/85.jpg"
+    
+    },
+    {
+        
+        "reg" : "86",
+        "type" : "medical",
+        "name" : "A. K. M. FAZLUL HAQUE DEWAN",
+        "father" : "",
+        "address" :	"MULCHAR, P.O.: MULCHAR, P.S.: DIGHIRPAR, DISTRICT: MUNSHIGONJ.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/86.jpg"
+    
+    },
+    {
+        
+        "reg" : "87",
+        "type" : "medical",
+        "name" : "MD. AKHLASUL MUMIN",
+        "father" : "",
+        "address" :	"BHOWARIGONJ, P.O.: JURY, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/87.jpg"
+    
+    },
+    {
+        
+        "reg" : "88",
+        "type" : "medical",
+        "name" : "ANWARUL HUQ",
+        "father" : "",
+        "address" :	"BULGATUA, P.O.: CHARPRAGPUR, DISTRICT: KUSHTIA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/88.jpg"
+    
+    },
+    {
+        
+        "reg" : "89",
+        "type" : "medical",
+        "name" : "MD. ABDUL LATIF KHAN",
+        "father" : "",
+        "address" :	"KHARKHARIA, P.S.: PANGSA, DISTRICT: PABNA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/89.jpg"
+    
+    },
+    {
+        
+        "reg" : "90",
+        "type" : "medical",
+        "name" : "MD. ABDUL HAKIM",
+        "father" : "",
+        "address" :	"BATIL HATKHOLA, DISTRICT: PABNA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/90.jpg"
+    
+    },
+    {
+        
+        "reg" : "92",
+        "type" : "medical",
+        "name" : "REZAUL MOWLA",
+        "father" : "",
+        "address" :	"HATEM KHAN, DISTRICT: RAJSHAHI.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/92.jpg"
+    
+    },
+    {
+        
+        "reg" : "93",
+        "type" : "medical",
+        "name" : "MD. ALTAF HOSSAIN",
+        "father" : "",
+        "address" :	"CITY MEDICAL HALL, DISTRICT: PABNA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/93.jpg"
+    
+    },
+    {
+        
+        "reg" : "94",
+        "type" : "medical",
+        "name" : "MIR SAZEDUR RAHMAN",
+        "father" : "",
+        "address" :	"VILL.- RAHMATPUR, P.S.: SANDIP, DISTRICT: CHITTAGONG.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/94.jpg"
+    
+    },
+    {
+        
+        "reg" : "95",
+        "type" : "medical",
+        "name" : "ASHIS BARAN SARKAR",
+        "father" : "",
+        "address" :	"50, KARBANI GONJ, DISTRICT: CHITTAGONG.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/95.jpg"
+    
+    },
+    {
+        
+        "reg" : "96",
+        "type" : "medical",
+        "name" : "MD. ZAHURUL HAQUE",
+        "father" : "",
+        "address" :	"SHAKDAHA, P.S.: CHANDANIBAISA, DISTRICT: BOGRA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/96.jpg"
+    
+    },
+    {
+        
+        "reg" : "97",
+        "type" : "medical",
+        "name" : "RAFIQUL BASHAR",
+        "father" : "",
+        "address" :	"13, GOPIBAGH FIRST LANE, DISTRICT: DHAKA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/97.jpg"
+    
+    },
+    {
+        
+        "reg" : "99",
+        "type" : "medical",
+        "name" : "MD. MAZIBUR RAHMAN BHUIAN",
+        "father" : "",
+        "address" :	"VILL.- SHARLAY, P.O.: TALJANGA, DISTRICT: KISHORGONJ.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/99.jpg"
+    
+    },
+    {
+        
+        "reg" : "100",
+        "type" : "medical",
+        "name" : "SHAH MAHBUB HOSSAIN BADRI",
+        "father" : "",
+        "address" :	"VILL.- BOGULAGARI, P.O.: JALDHAKA, DISTRICT: RANGPUR.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/100.jpg"
+    
+    },
+    {
+        
+        "reg" : "101",
+        "type" : "medical",
+        "name" : "ZAHEDA KHAN EUSUFZAI",
+        "father" : "",
+        "address" :	"VILL.- PACH CHARAN, P.O.: PACH CHARAN, DISTRICT: TANGAIL.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/101.jpg"
+    
+    },
+    {
+        
+        "reg" : "102",
+        "type" : "medical",
+        "name" : "BASIR AHMED",
+        "father" : "",
+        "address" :	"VILL.- HADAL, P.O.: DHANUABHATA, DISTRICT: FARIDPUR.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/102.jpg"
+    
+    },
+    {
+        
+        "reg" : "103",
+        "type" : "medical",
+        "name" : "MD. MUSTAFIZUR RAHMAN",
+        "father" : "",
+        "address" :	"DHULASAR, DISTRICT: PATUAKHALI.",
+        "image" :"https://medical.bmdc.org.bd/upl/imregister/m_01/103.jpgg/"
+    
+    },
+    {
+        
+        "reg" : "104",
+        "type" : "medical",
+        "name" : "BIRENDRA KUMAR MAZUMDER",
+        "father" : "",
+        "address" :	"VILL.- SREERAMPUR, P.O.: DOWHAKHAL, DISTRICT: MYMENSINGH.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/104.jpg"
+    
+    },
+    {
+        
+        "reg" : "105",
+        "type" : "medical",
+        "name" : "BHUPENDRA CHANDRA BISWAS",
+        "father" : "",
+        "address" :	"VILL.- SREEPUR, P.O.: TALJANGA, P.S.: TARAIL, DISTRICT: KISHORGONJ.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/105.jpg"
+    
+    },
+    {
+        
+        "reg" : "106",
+        "type" : "medical",
+        "name" : "HABIBUR RAHMAN",
+        "father" : "",
+        "address" :	"VILL.- CHARPARA, P.O.: CHEORA, DISTRICT: COMILLA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/106.jpg"
+    
+    },
+    {
+        
+        "reg" : "107",
+        "type" : "medical",
+        "name" : "HARI PODA GHOSH",
+        "father" : "",
+        "address" :	"KALIGANJ, DISTRICT: GAZIPUR.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/107.jpg"
+    
+    },
+    {
+        
+        "reg" : "108",
+        "type" : "medical",
+        "name" : "MD. NURUL HAQUE",
+        "father" : "",
+        "address" :	"VILL.- BANIAGANTI, P.O.: CHOBARI, DISTRICT: PABNA.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/108.jpg"
+    
+    },
+    {
+        
+        "reg" : "109",
+        "type" : "medical",
+        "name" : "CHUNI LAL BISWAS",
+        "father" : "",
+        "address" :	"VILL.- RAHIMKHAR CHAK, P.O.: ZAKIGONJ, DISTRICT: SYLHET.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/109.jpg"
+    
+    },
+    {
+        
+        "reg" : "110",
+        "type" : "medical",
+        "name" : "SALEHA KHANAM",
+        "father" : "",
+        "address" :	"CHNDARPUR, DISTRICT: SYLHET.",
+        "image" :"https://medical.bmdc.org.bd/upl/img/register/m_01/110.jpg"
+    
+    }
+]
