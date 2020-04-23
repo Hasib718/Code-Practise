@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Love",
+            "request": "launch",
+            "mainClass": "Love"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoveProposal",
+            "request": "launch",
+            "mainClass": "LoveProposal"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MainB",
             "request": "launch",
             "mainClass": "MainB"
