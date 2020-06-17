@@ -3,7 +3,8 @@
         "ostream": "cpp",
         "utility": "cpp",
         "vector": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "iostream": "cpp"
     },
     "files.exclude": {
         "**/.classpath": true,

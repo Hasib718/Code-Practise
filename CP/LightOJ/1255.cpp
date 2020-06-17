@@ -2,6 +2,9 @@
 
 using namespace std;
 
+char txt[1000005], pat[1000005];
+int n;
+
 void LPS(char *pat, int M, int *lps)
 {
     int len = 0;
@@ -37,7 +40,7 @@ void KMP(char *pat, char *txt)
             j++, i++;
 
         if (j == M)
-            cout << i - j << endl, j = lps[j-1];
+            n++, j = lps[j-1];
         else if (i < N && pat[j] != txt[i])
             if (j != 0)
                 j = lps[j-1];
@@ -48,10 +51,24 @@ void KMP(char *pat, char *txt)
 
 int main()
 {
-    char txt[] = "abcabcabcabc"; 
-    char pat[] = "abc"; 
+    int T;
+    scanf("%d", &T);
 
-    KMP(pat, txt);
+    getchar();
+    for(int i=1; i<=T; i++)
+    {
+        scanf("%[^\n]%*c", txt);
+        scanf("%[^\n]%*c", pat);
+
+        int r = strlen(txt), t = strlen(pat);
+        
+        KMP(pat, txt);
+
+        printf("Case %d: %d\n", i, n);
+        n=0;
+        memset(txt, 0, r*(sizeof(txt[0])));
+        memset(pat, 0, t*(sizeof(pat[0])));
+    }
 
     return 0;
 }
