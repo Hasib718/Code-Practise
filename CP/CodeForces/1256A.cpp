@@ -12,6 +12,9 @@ int main()
         int a, b, n, S;
         cin >> a >> b >> n >> S;
 
-        while((a*n) > S) a--;
+        if(S%n <= b and 1ll*a*n+b>=S) cout << "YES" << endl;
+        else cout << "NO" << endl;
     }
+
+    return 0;
 }

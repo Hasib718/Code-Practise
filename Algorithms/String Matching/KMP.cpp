@@ -48,8 +48,8 @@ void KMP(char *pat, char *txt)
 
 int main()
 {
-    char txt[] = "abcabcabcabc"; 
-    char pat[] = "abc"; 
+    char txt[] = "sirsiri"; 
+    char pat[] = "sir"; 
 
     KMP(pat, txt);
 

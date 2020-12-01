@@ -6,7 +6,8 @@
         "xutility": "cpp",
         "iostream": "cpp",
         "cmath": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "random": "cpp"
     },
     "files.exclude": {
         "**/.classpath": true,
