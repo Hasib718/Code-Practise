@@ -137,50 +137,43 @@ node *tree::minimum(node *temp_node)
 
 node *tree::del_node(node *temp_root, int item)
 {
-  if(root == NULL) return (temp_root);
+  if (root == NULL)
+    return (temp_root);
 
-  if(temp_root->data > item)
+  if (temp_root->data > item)
   {
     temp_root->left = del_node(temp_root->left, item);
     return (temp_root);
   }
-  else if(temp_root->data < item)
+  else if (temp_root->data < item)
   {
     temp_root->right = del_node(temp_root->right, item);
     return (temp_root);
   }
-
-  if(temp_root->left == NULL)
+  else
+  {
+      if (temp_root->left == NULL)
   {
     node *temp = temp_root->right;
     delete temp_root;
     return (temp);
   }
-  else if(temp_root->right == NULL)
+  else if (temp_root->right == NULL)
   {
     node *temp = temp_root->left;
     delete temp_root;
     return (temp);
   }
-  else
-  {
-    node *successor_parent, *successor;
-    successor_parent = temp_root->right;
-    successor = temp_root->right;
 
-    while(successor->left != NULL)
-    {
-      successor_parent = successor;
+    node *successor = temp_root->right;
+
+    while (successor->left != NULL)
       successor = successor->left;
-    }
-    successor_parent->left = successor->right;
-    temp_root->data = successor->data;
-    if(successor->left == NULL && successor->right == NULL)
-      temp_root->right = NULL;
-    else
-      successor->right->parent = successor_parent;
 
-    delete successor;
+    temp_root->data = successor->data;
+
+    temp_root->right = del_node(temp_root->right, successor->data);
+
     return temp_root;
   }
 }

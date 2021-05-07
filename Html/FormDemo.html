@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice Form</title>
+</head>
+
+<body>
+    <h1>From Demo</h1>
+    <form action="/ajaira">
+        <p>
+            <label for="username">Enter your username:</label>
+            <input type="text" placeholder=username id="username" name="username">
+        </p>
+        <p>
+            <label for="password">Enter your password</label>
+            <input type="password" placeholder=password id="password" name="password">
+        </p>
+        <p>
+            <label for="takecolor">Select color</label>
+            <input type="color" id="takecolor" name="takecolor">
+        </p>
+        <p>
+            <label for="numbers">Input your numbers</label>
+            <input type="number" id="numbers" name="numbers">
+        </p>
+        <p>
+            <label for="times">Choose Time</label>
+            <input type="time" id="times" name="times">
+        </p>
+
+        <!-- This button doesn't submit the form because of the type attribute -->
+        <button type="button">Regular button</button>
+        <!-- This button submits the form! -->
+        <button>Submit!!!</button>
+        <!-- So does this one -->
+        <input type="submit" value="Click Me!">
+    </form>
+    <hr>
+
+    <!-- Outside the form, no default behavior -->
+    <button>Not Inside Form</button>
+    <hr>
+
+    <p>
+        <h1>Search on Google</h1>
+        <form action="https://www.google.com/search">
+            <label for="doodle">Google</label>
+            <input type="text" name="q" id="doodle">
+            <button>Search</button>
+        </form>
+    </p>
+
+    <p>
+        <h1>Search on Youtube</h1>
+        <form action="https://www.youtube.com/results">
+            <label for="uthub">YouTube</label>
+            <input type="text" name="search_query" id="uthub">
+            <button>Search</button>
+        </form>
+    </p>
+
+    <h1>More Inputs!</h1>
+    <form action="/birds">
+        <p>
+            <input type="checkbox" name="agree_tos" id="agree" checked>
+            <label for="agree">I agree to everything.</label>    
+        </p>
+        <p>
+            <input type="checkbox" name="not_agree_tos" id="disagree">
+            <label for="disagree">I don't agree.</label>    
+        </p>
+        <p>
+            <input type="radio" name="size" id="xl" value="XL">
+            <label for="xl">XL</label>
+            <input type="radio" name="size" id="m" value="M">
+            <label for="m">M</label>
+            <input type="radio" name="size" id="s" value="S">
+            <label for="s">S</label>
+        </p>
+        <p>
+            <label for="meal">Please select an Entry</label>
+            <select name="meal" id="meal">
+                <option value="">--Select--</option>
+                <option value="fish">Fish</option>
+                <option value="vegetable">Vegetable</option>
+                <option value="meat">Meat</option>
+                <option value="ajaira">hudai</option>
+            </select>
+        </p>
+        <p>
+            <label for="level">Amount of cheese:</label>
+            <input type="range" name="cheese" id="level" min="0" max="100" step="10" value="70">
+        </p>
+        <p>
+            <label for="story">Any Special Requests?</label><br>
+            <textarea name="requests" id="story" cols="50" rows="20" placeholder=""></textarea>
+        </p>
+        <button>Submit</button>
+    </form>Validation Demo!</h1>
+    <form action="/valid">
+        <p>
+            <label for="first">Enter First Name</label>
+            <input type="text" name="first" id="first" required>
+        </p>
+        <p>
+            <label for="uname">Username</label>
+            <input type="text" id="uname" name="uname" minlength="5" maxlength="20" required>
+        </p>
+        <p>
+            <label for="mail">Email</label>
+            <input type="email" id="mail" name="mail" required>
+        </p>
+        <button>Submit</button>
+    </form>
+</body>
+
+</html>

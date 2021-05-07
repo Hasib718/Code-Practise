@@ -1,0 +1,19 @@
+button {
+    background-color: purple;
+    color: black;
+}
+h2 {
+    color:rgb(223, 121, 24);
+}
+p {
+    color: olive;
+    line-height: 2;
+}
+h1 {
+    text-align: center;
+    font-weight: normal;
+    text-decoration: #7B0EE8 wavy underline;
+    letter-spacing: 15px;
+    font-size: 80px;
+    font-family: monospace;
+}
