@@ -6,35 +6,104 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CSS Selectors</title>
 
-    <link rel="stylesheet" href="/mnt/Work & Soft/Code Practise/CSS/app-v1.css">
+    <link rel="stylesheet" href="/mnt/Work & Soft/Code Practise/CSS/selectors.css">
 </head>
 
 <body>
     <nav>
-        <input type="text" placeholder="search">
+        <label for="search">Search</label>
+        <input type="text" placeholder="search" id="search">
+        <input type="password" placeholder="password">
         <button>Log In</button>
-        <button>Sign Up</button>
+        <button id="signup">Sign Up</button>
     </nav>
     <main>
         <h1>Popular Posts</h1>
-        <section>
+        <section class="post">
             <span>Posted by <a href="#213adas">/u/not_funny</a></span>
-            <h2>Lol look at this hilarious meme <span>funny</span></h2>
+            <h2>Lol look at this hilarious meme <span class="tag">funny</span></h2>
             <button>+Vote</button>
             <hr>
         </section>
-        <section>
+        <section class="post">
             <span>Posted by <a href="#345adas">/u/gooner4lyfe</a></span>
-            <h2>Happy birthday to the strongest defender/bodyguard in the Prem! <span>gunners</span></h2>
+            <h2>Happy birthday to the strongest defender/bodyguard in the Prem! <span class="tag">gunners</span></h2>
             <button>+Vote</button>
             <hr>
         </section>
-        <section>
+        <section class="post">
             <span>Posted by <a href="#981adas">/u/dogfan</a></span>
-            <h2>This Corgi got some good stuff from the vet. <span>dogs</span></h2>
+            <h2>This Corgi got some good stuff from the vet. <span class="tag">dogs</span></h2>
             <button>+Vote</button>
             <hr>
         </section>
+        <section class="post">
+            <span>Posted by <a href="#213adas">/u/not_funny</a></span>
+            <h2>Lol look at this hilarious meme <span class="tag">funny</span></h2>
+            <button>+Vote</button>
+            <hr>
+        </section>
+        <section class="post">
+            <span>Posted by <a href="#345adas">/u/gooner4lyfe</a></span>
+            <h2>Happy birthday to the strongest defender/bodyguard in the Prem! <span class="tag">gunners</span></h2>
+            <button>+Vote</button>
+            <hr>
+        </section>
+        <section class="post">
+            <span>Posted by <a href="#981adas">/u/dogfan</a></span>
+            <h2>This Corgi got some good stuff from the vet. <span class="tag">dogs</span></h2>
+            <button>+Vote</button>
+            <hr>
+        </section>
+        <section class="post">
+            <span>Posted by <a href="#213adas">/u/not_funny</a></span>
+            <h2>Lol look at this hilarious meme <span class="tag">funny</span></h2>
+            <button>+Vote</button>
+            <hr>
+        </section>
+        <section class="post">
+            <span>Posted by <a href="#345adas">/u/gooner4lyfe</a></span>
+            <h2>Happy birthday to the strongest defender/bodyguard in the Prem! <span class="tag">gunners</span></h2>
+            <button>+Vote</button>
+            <hr>
+        </section>
+        <section class="post">
+            <span>Posted by <a href="#981adas">/u/dogfan</a></span>
+            <h2>This Corgi got some good stuff from the vet. <span class="tag">dogs</span></h2>
+            <button>+Vote</button>
+            <hr>
+        </section>
+
+        <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque ipsa, ullam similique harum voluptate vitae
+            corporis tenetur quasi pariatur praesentium at quos accusamus quidem magni illo. Repellat dolore nesciunt
+            incidunt.
+            Asperiores aliquid harum nesciunt cupiditate? Molestiae velit quis non atque alias provident rerum et quo
+            accusantium qui ipsum mollitia, ex inventore ad expedita iste ipsa dolores magnam quod at id.
+            Earum iste distinctio ex omnis deleniti illo laudantium culpa nulla, similique cumque id sit accusamus magni
+            eligendi temporibus odio officiis impedit. Esse provident quae quos corporis consequatur deleniti repellat
+            maiores.
+            Quia tenetur ratione quasi aspernatur odio obcaecati amet quibusdam veniam assumenda quae cumque vitae,
+            corporis reiciendis debitis minus beatae? Deserunt, reiciendis ratione nihil obcaecati amet eius optio
+            quaerat voluptates commodi!
+            Odio, ipsam enim eligendi porro voluptates laudantium, nesciunt voluptate exercitationem quaerat dignissimos
+            optio maxime doloremque nemo, facere itaque culpa officia molestias? Ea officia, sequi velit sed pariatur
+            tenetur at quas?
+            Aperiam harum suscipit similique expedita ipsa rerum quia veniam. Architecto asperiores numquam incidunt
+            totam tempora repudiandae assumenda, error, corrupti, expedita delectus quo nam minima temporibus
+            praesentium saepe dolorem aliquam eligendi.
+            Non accusantium nobis numquam veniam, laudantium necessitatibus fuga, voluptatem sunt hic amet quae
+            dignissimos vel cupiditate! Eius possimus veniam illum, eos, aliquid autem esse, incidunt officia nisi sit
+            consequuntur dolor.
+            Nulla voluptate veritatis nisi inventore suscipit pariatur ex ad libero commodi molestiae quod sunt
+            voluptatum rem maiores impedit quidem dolores reiciendis dignissimos hic assumenda, ullam laudantium soluta
+            deserunt. Quisquam, sint?
+            Esse in neque nemo harum optio ut deleniti eveniet hic, deserunt placeat sed cupiditate consequuntur quia
+            odio nulla est aut nesciunt dolor aliquam non quam autem! Velit eum fugit quibusdam.
+            Cum assumenda illum cumque itaque ipsum similique quis hic necessitatibus accusamus unde? A delectus
+            veritatis placeat temporibus eligendi explicabo, optio non veniam aperiam fugit at, voluptatum illo quidem
+            doloribus reiciendis.
+        </p>
     </main>
     <footer>
         <nav>
@@ -51,8 +120,12 @@
                 <li>
                     <a href="#puppies">Puppies</a>
                 </li>
+                <li>
+                    <a href="www.google.com">Google</a>
+                </li>
             </ul>
         </nav>
+        <a href="#test">Direct Child selector</a>
     </footer>
 
 </body>

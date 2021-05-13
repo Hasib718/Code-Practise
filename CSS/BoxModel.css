@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+}
+
+.outdiv {
+    width: 200px;
+    height: 200px;
+    background-color: olive;
+}
+
+h1 {
+    background-color: mediumvioletred;
+    width: 200px;
+    padding: 50px;
+    text-align: center;
+    margin: 0;
+}
+
+span {
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+
+#one {
+    background-color: #e76f51;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+
+#two {
+    background-color: #f4a261;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: #e63946;
+    border-left-width: 8px;
+    box-sizing: border-box;
+    margin: 200px;
+}
+
+#three {
+    background-color: #e9c46a;
+    border: 4px groove magenta;
+    border-left-style: dotted;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 10px 20px 30px 40px;
+}
+
+.blockdiv {
+    border: 5px solid black;
+    background-color: olive;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin: 50px;
+}
+
+#blockline h1 {
+    background-color: blueviolet;
+    border: 2px solid black;
+    width: 300px;
+    padding: 50px;
+    margin: 100px;
+    display: none;
+}
+
+#blockline p span {
+    background-color: palevioletred;
+    border: 5px solid black;
+    width: 500px;
+    padding: 50px;
+    margin: 50px;
+}
+
+#measure {
+    background-color: #e63946;
+    height: 800px;
+    width: 800px;
+}
+
+#measure div {
+    background-color: #f1faee;
+    width: 50%;
+    height: 50%;
+}
+
+#units {
+    height: inherit;
+    width: inherit;
+    font-size: 40px;
+    border: 2px solid black;
+    line-height: 200%;
+    padding: inherit;
+    margin: inherit;
+    background-color: inherit;
+}
